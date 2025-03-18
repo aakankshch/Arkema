@@ -18,4 +18,17 @@ This repository is to track the code and results of Reactivity Rate Constants
 | Random Forest    | 0.846  | 1.411  | 0.583    |
 | XGBoost         | 0.867  | 1.497  | 0.530    |
 
+## Version 1.1 - Model Performance
+
+| Model             | MAE    | RMSE   | R² Score |
+|------------------|--------|--------|----------|
+| Linear Regression | 0.718  | 0.984  | 0.731    |
+| Lasso Regression | 1.209  | 1.534  | 0.346    |
+| Ridge Regression | 0.707  | 0.980  | 0.733    |
+| Random Forest    | 0.833  | 1.059  | 0.689    |
+| XGBoost         | 0.803  | 1.120  | 0.652    |
+
+
+
+
 
